@@ -39,7 +39,7 @@ API-Football REST API
  Power BI dashboard
 ```
 
-![EPL pipeline architecture: API-Football to Python to SQL Server staging to warehouse to Power BI](images/epl_architecture.png)
+![Power BI Premier League dashboard: points by team, home vs away wins, goal difference, attack vs defence](images/epl_architecture.png)
 
 ## Data quality checks
 
