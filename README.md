@@ -39,7 +39,7 @@ API-Football REST API
  Power BI dashboard
 ```
 
-![Power BI Premier League dashboard, page 1: KPI cards and full season table](images/epl_architecture.png)
+![Power BI Premier League dashboard, page 1: KPI cards and full season table](images/epl_page1.png)
 
 ![Power BI Premier League dashboard, page 2: points by team, home vs away wins, goal difference, attack vs defence](images/epl_page2.png)
 
